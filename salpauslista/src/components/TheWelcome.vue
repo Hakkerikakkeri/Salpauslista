@@ -4,9 +4,9 @@
     <div v-if="jsonData" class="data-container">
       <div v-for="(yearData, year) in jsonData['Kohde 1']" :key="year">
         <div class="year-header" @click="toggleYear(year)">
-          <span>{{ yearData.vuosi}}</span>
           <span v-if="isYearOpen(year)">▼</span>
           <span v-else>►</span>
+          <span>{{ yearData.vuosi}}</span>
         </div>
         <div v-if="isYearOpen(year)" class="data-list">
           <div v-for="(value, key) in yearData" :key="key" v-if="key !== 'text'">
