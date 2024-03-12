@@ -30,9 +30,6 @@ const headers = Object.values(jsonData['Kohde 1'][0]); // Extract headers from t
 
 const openYears = ref(Array(jsonData['Kohde 1'].length - 1).fill(false));
 
-function toggleYear(index) {
-  openYears.value[index] = !openYears.value[index];
-}
 </script>
 
 <style scoped>
