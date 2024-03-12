@@ -1,6 +1,7 @@
 {
 "Kohde 1":[
  {
+  "Column1": "vuosiluku",
   "Column2": "Päätoiminen työllinen",
   "Column3": "Työllinen opiskelija",
   "Column4": "Päätoiminen opiskelija, koululainen",
