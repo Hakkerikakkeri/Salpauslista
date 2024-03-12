@@ -1,0 +1,171 @@
+{
+"Kohde 1":[
+ {
+  "Column2": "Päätoiminen työllinen",
+  "Column3": "Työllinen opiskelija",
+  "Column4": "Päätoiminen opiskelija, koululainen",
+  "Column5": "Työtön",
+  "Column6": "Varusmies, siiviipalvelusmies",
+  "Column7": "Eläkeläinen, sis. työttömyyseläkkeellä olevat",
+  "Column8": "Muu tai tuntematon",
+  "Column9": "Muuttanut maasta",
+  "Column10": "Yhteensä"
+ },
+ {
+  "vuosi": "2009",
+  "Column2": 30051,
+  "Column3": 5571,
+  "Column4": 4017,
+  "Column5": 8223,
+  "Column6": 2658,
+  "Column7": 369,
+  "Column8": 2211,
+  "Column9": 240,
+  "Column10": 53340
+ },
+ {
+  "vuosi": "2010",
+  "Column2": 33174,
+  "Column3": 5943,
+  "Column4": 4461,
+  "Column5": 7470,
+  "Column6": 2766,
+  "Column7": 414,
+  "Column8": 2448,
+  "Column9": 234,
+  "Column10": 56910
+ },
+ {
+  "vuosi": "2011",
+  "Column2": 35274,
+  "Column3": 5844,
+  "Column4": 4188,
+  "Column5": 6966,
+  "Column6": 2625,
+  "Column7": 435,
+  "Column8": 2220,
+  "Column9": 243,
+  "Column10": 57795
+ },
+ {
+  "vuosi": "2012",
+  "Column2": 36147,
+  "Column3": 5979,
+  "Column4": 4428,
+  "Column5": 8184,
+  "Column6": 2811,
+  "Column7": 465,
+  "Column8": 2421,
+  "Column9": 219,
+  "Column10": 60660
+ },
+ {
+  "vuosi": "2013",
+  "Column2": 34593,
+  "Column3": 5985,
+  "Column4": 4584,
+  "Column5": 10413,
+  "Column6": 504,
+  "Column7": 477,
+  "Column8": 3201,
+  "Column9": 417,
+  "Column10": 60177
+ },
+ {
+  "vuosi": "2014",
+  "Column2": 32859,
+  "Column3": 5496,
+  "Column4": 4479,
+  "Column5": 12099,
+  "Column6": 537,
+  "Column7": 426,
+  "Column8": 3144,
+  "Column9": 252,
+  "Column10": 59292
+ },
+ {
+  "vuosi": "2015",
+  "Column2": 33714,
+  "Column3": 5814,
+  "Column4": 4788,
+  "Column5": 12636,
+  "Column6": 594,
+  "Column7": 408,
+  "Column8": 3381,
+  "Column9": 294,
+  "Column10": 61629
+ },
+ {
+  "vuosi": "2016",
+  "Column2": 35790,
+  "Column3": 5991,
+  "Column4": 4881,
+  "Column5": 12267,
+  "Column6": 654,
+  "Column7": 504,
+  "Column8": 3555,
+  "Column9": 285,
+  "Column10": 63924
+ },
+ {
+  "vuosi": "2017",
+  "Column2": 37845,
+  "Column3": 5922,
+  "Column4": 4506,
+  "Column5": 9279,
+  "Column6": 660,
+  "Column7": 465,
+  "Column8": 3795,
+  "Column9": 288,
+  "Column10": 62763
+ },
+ {
+  "vuosi": "2018",
+  "Column2": 40710,
+  "Column3": 5016,
+  "Column4": 4251,
+  "Column5": 7884,
+  "Column6": 729,
+  "Column7": 486,
+  "Column8": 3945,
+  "Column9": 285,
+  "Column10": 63306
+ },
+ {
+  "vuosi": "2019",
+  "Column2": 42363,
+  "Column3": 4608,
+  "Column4": 3954,
+  "Column5": 8043,
+  "Column6": 669,
+  "Column7": 507,
+  "Column8": 3561,
+  "Column9": 297,
+  "Column10": 63999
+ },
+ {
+  "vuosi": "2020",
+  "Column2": 34704,
+  "Column3": 4167,
+  "Column4": 4125,
+  "Column5": 10044,
+  "Column6": 684,
+  "Column7": 432,
+  "Column8": 3297,
+  "Column9": 210,
+  "Column10": 57663
+ },
+ {
+  "vuosi": "2021",
+  "Column2": 33234,
+  "Column3": 4461,
+  "Column4": 3786,
+  "Column5": 6702,
+  "Column6": 594,
+  "Column7": 369,
+  "Column8": 2898,
+  "Column9": 150,
+  "Column10": 52197
+ }
+]
+}
