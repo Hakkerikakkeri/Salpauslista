@@ -1,0 +1,5472 @@
+{
+"Kohde 1":[
+ {
+  "Column2": "Päätoiminen työllinen",
+  "Column3": "Työllinen opiskelija",
+  "Column4": "Päätoiminen opiskelija, koululainen",
+  "Column5": "Työtön",
+  "Column6": "Varusmies, siiviipalvelusmies",
+  "Column7": "Eläkeläinen, sis. työttömyyseläkkeellä olevat",
+  "Column8": "Muu tai tuntematon",
+  "Column9": "Muuttanut maasta",
+  "Column10": "Yhteensä"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2009",
+  "Column2": 843,
+  "Column3": 147,
+  "Column4": 117,
+  "Column5": 264,
+  "Column6": 96,
+  "Column7": 24,
+  "Column8": 81,
+  "Column9": "1-4",
+  "Column10": 1575
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 69,
+  "Column3": 21,
+  "Column4": 15,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": 15,
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 165
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 12,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column7": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 42,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 99
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column7": 9,
+  "Column8": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kielten opiskelu",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 135,
+  "Column3": 27,
+  "Column4": 18,
+  "Column5": 21,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 222
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 9,
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 42,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 84,
+  "Column3": 18,
+  "Column4": 15,
+  "Column5": 15,
+  "Column6": 6,
+  "Column8": 12,
+  "Column10": 150
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": 6,
+  "Column9": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": 6,
+  "Column9": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 231,
+  "Column3": 33,
+  "Column4": 30,
+  "Column5": 135,
+  "Column6": 66,
+  "Column7": "1-4",
+  "Column8": 24,
+  "Column9": "1-4",
+  "Column10": 522
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 51,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 36,
+  "Column6": 18,
+  "Column8": "1-4",
+  "Column10": 132
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 30,
+  "Column6": 18,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 99
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": 6,
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 57,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 36,
+  "Column6": 21,
+  "Column8": 9,
+  "Column10": 135
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 24,
+  "Column3": 12,
+  "Column4": 9,
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 12,
+  "Column3": 12,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 39
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column7": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 180,
+  "Column3": 27,
+  "Column4": 12,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 243
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 138,
+  "Column3": 18,
+  "Column4": 9,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 183
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Farmasia",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 39,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 177,
+  "Column3": 24,
+  "Column4": 24,
+  "Column5": 54,
+  "Column6": 12,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 306
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": 6,
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 75,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 132
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 33,
+  "Column3": 6,
+  "Column4": 12,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 12,
+  "Column6": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column5": 12,
+  "Column6": 9,
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2010",
+  "Column2": 1029,
+  "Column3": 168,
+  "Column4": 156,
+  "Column5": 276,
+  "Column6": 111,
+  "Column7": 9,
+  "Column8": 84,
+  "Column9": 6,
+  "Column10": 1836
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 87,
+  "Column3": 21,
+  "Column4": 27,
+  "Column5": 39,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 186
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 48,
+  "Column3": 18,
+  "Column4": 18,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 114
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kielten opiskelu",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 141,
+  "Column3": 30,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 246
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 48,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 78,
+  "Column3": 21,
+  "Column4": 15,
+  "Column5": 27,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 165
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 318,
+  "Column3": 45,
+  "Column4": 48,
+  "Column5": 114,
+  "Column6": 69,
+  "Column7": "1-4",
+  "Column8": 24,
+  "Column9": "1-4",
+  "Column10": 624
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 84,
+  "Column3": 24,
+  "Column4": 15,
+  "Column5": 12,
+  "Column6": 21,
+  "Column8": 6,
+  "Column10": 162
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 60,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 30,
+  "Column6": 15,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 129
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": 12,
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 81,
+  "Column3": 6,
+  "Column4": 15,
+  "Column5": 36,
+  "Column6": 21,
+  "Column8": 6,
+  "Column10": 162
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 33,
+  "Column3": 12,
+  "Column4": 6,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 24,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 195,
+  "Column3": 30,
+  "Column4": 15,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 270
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 153,
+  "Column3": 18,
+  "Column4": 12,
+  "Column5": 15,
+  "Column8": 6,
+  "Column10": 201
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 24,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 231,
+  "Column3": 30,
+  "Column4": 33,
+  "Column5": 48,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": "1-4",
+  "Column10": 381
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 39,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 81,
+  "Column3": 12,
+  "Column4": 15,
+  "Column5": 21,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 147
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 30,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": 6,
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2011",
+  "Column2": 1143,
+  "Column3": 162,
+  "Column4": 144,
+  "Column5": 273,
+  "Column6": 72,
+  "Column7": 21,
+  "Column8": 69,
+  "Column9": 6,
+  "Column10": 1887
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 78,
+  "Column3": 27,
+  "Column4": 24,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": 12,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 180
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column5": "1-4",
+  "Column7": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 27,
+  "Column3": 18,
+  "Column4": 12,
+  "Column5": 15,
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 12,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column7": 6,
+  "Column9": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kielten opiskelu",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Yhteiskunnalliset alat",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjasto- ja informaatiotieteet",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 144,
+  "Column3": 27,
+  "Column4": 12,
+  "Column5": 36,
+  "Column6": 6,
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 237
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 36,
+  "Column3": 9,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 93,
+  "Column3": 15,
+  "Column4": 12,
+  "Column5": 27,
+  "Column6": 6,
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 162
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 375,
+  "Column3": 45,
+  "Column4": 54,
+  "Column5": 123,
+  "Column6": 48,
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": 6,
+  "Column10": 672
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 93,
+  "Column3": 12,
+  "Column4": 21,
+  "Column5": 24,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 159
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 63,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": 12,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 126
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": 6,
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 27,
+  "Column5": 12,
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 33,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 111,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 36,
+  "Column6": 18,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 192
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 45,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 39,
+  "Column3": 12,
+  "Column4": 9,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 81
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 243,
+  "Column3": 21,
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 300
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 180,
+  "Column3": 15,
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 225
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 24,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 36,
+  "Column3": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 228,
+  "Column3": 27,
+  "Column4": 21,
+  "Column5": 36,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column10": 339
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 51,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 93,
+  "Column3": 12,
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 144
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 27,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column6": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 21,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2012",
+  "Column2": 1287,
+  "Column3": 174,
+  "Column4": 159,
+  "Column5": 312,
+  "Column6": 111,
+  "Column7": 15,
+  "Column8": 81,
+  "Column9": 9,
+  "Column10": 2151
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 75,
+  "Column3": 18,
+  "Column4": 24,
+  "Column5": 36,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 174
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column7": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 45,
+  "Column3": 12,
+  "Column4": 15,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kielten opiskelu",
+  "Column2": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Yhteiskunnalliset alat",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjasto- ja informaatiotieteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 174,
+  "Column3": 27,
+  "Column4": 18,
+  "Column5": 39,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 276
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": 6,
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 141,
+  "Column3": 27,
+  "Column4": 18,
+  "Column5": 33,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 234
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 6,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 6,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 480,
+  "Column3": 51,
+  "Column4": 63,
+  "Column5": 147,
+  "Column6": 72,
+  "Column7": 6,
+  "Column8": 30,
+  "Column9": "1-4",
+  "Column10": 849
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 138,
+  "Column3": 12,
+  "Column4": 18,
+  "Column5": 27,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 219
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 81,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 33,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 150
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": 9,
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 45,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 141,
+  "Column3": 15,
+  "Column4": 15,
+  "Column5": 45,
+  "Column6": 24,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 252
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 42,
+  "Column3": 15,
+  "Column4": 12,
+  "Column5": 9,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 90
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 39,
+  "Column3": 15,
+  "Column4": 9,
+  "Column5": 9,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column3": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 240,
+  "Column3": 24,
+  "Column4": 15,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 312
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 195,
+  "Column3": 21,
+  "Column4": 9,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": 12,
+  "Column10": 246
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 12,
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 237,
+  "Column3": 33,
+  "Column4": 18,
+  "Column5": 54,
+  "Column6": 12,
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 372
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 42,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 84,
+  "Column3": 12,
+  "Column4": "1-4",
+  "Column5": 27,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 141
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 30,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column6": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": 6,
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2013",
+  "Column2": 1266,
+  "Column3": 204,
+  "Column4": 147,
+  "Column5": 387,
+  "Column6": 30,
+  "Column7": 36,
+  "Column8": 111,
+  "Column9": 21,
+  "Column10": 2199
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 66,
+  "Column3": 18,
+  "Column4": 24,
+  "Column5": 33,
+  "Column6": 6,
+  "Column7": 15,
+  "Column8": 18,
+  "Column9": 6,
+  "Column10": 186
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 9,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column7": 9,
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 33,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 78
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column7": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Yhteiskunnalliset alat",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjasto- ja informaatiotieteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 189,
+  "Column3": 42,
+  "Column4": 15,
+  "Column5": 33,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 294
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 48,
+  "Column3": 12,
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 105,
+  "Column3": 24,
+  "Column4": 15,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 183
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 30,
+  "Column3": 9,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 30,
+  "Column3": 9,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 372,
+  "Column3": 42,
+  "Column4": 48,
+  "Column5": 171,
+  "Column6": 12,
+  "Column7": 9,
+  "Column8": 42,
+  "Column9": 6,
+  "Column10": 705
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column7": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 45,
+  "Column3": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 48,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 33,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 108
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 54,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 39,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 33,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 108,
+  "Column3": 15,
+  "Column4": 12,
+  "Column5": 51,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 207
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 42,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 36,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 282,
+  "Column3": 33,
+  "Column4": 9,
+  "Column5": 33,
+  "Column6": "1-4",
+  "Column8": 15,
+  "Column10": 375
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 189,
+  "Column3": 18,
+  "Column4": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": 15,
+  "Column10": 243
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 78,
+  "Column3": 12,
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 117
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 273,
+  "Column3": 39,
+  "Column4": 21,
+  "Column5": 66,
+  "Column6": "1-4",
+  "Column7": 6,
+  "Column8": 18,
+  "Column9": "1-4",
+  "Column10": 426
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column9": "1-4",
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 27,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 111,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 24,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 171
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Urheilu ja liikunta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 30,
+  "Column3": 12,
+  "Column4": 6,
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2014",
+  "Column2": 1080,
+  "Column3": 201,
+  "Column4": 180,
+  "Column5": 468,
+  "Column6": 18,
+  "Column7": "1-4",
+  "Column8": 96,
+  "Column9": 15,
+  "Column10": 2061
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 69,
+  "Column3": 21,
+  "Column4": 30,
+  "Column5": 51,
+  "Column6": "1-4",
+  "Column8": 15,
+  "Column9": 6,
+  "Column10": 192
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 30,
+  "Column3": 15,
+  "Column4": 18,
+  "Column5": 21,
+  "Column8": "1-4",
+  "Column10": 87
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column9": 6,
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 174,
+  "Column3": 42,
+  "Column4": 33,
+  "Column5": 69,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 330
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 15,
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 36,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 108,
+  "Column3": 30,
+  "Column4": 30,
+  "Column5": 57,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 234
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 12,
+  "Column5": 30,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 12,
+  "Column5": 30,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 297,
+  "Column3": 54,
+  "Column4": 42,
+  "Column5": 180,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 27,
+  "Column9": "1-4",
+  "Column10": 615
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 33,
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 36,
+  "Column3": 9,
+  "Column4": 6,
+  "Column5": 30,
+  "Column8": "1-4",
+  "Column10": 81
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 36,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 36,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 15,
+  "Column3": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 39
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 36,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column8": 6,
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 105,
+  "Column3": 27,
+  "Column4": 18,
+  "Column5": 54,
+  "Column6": 6,
+  "Column8": 9,
+  "Column10": 219
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 51,
+  "Column3": 21,
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 102
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 51,
+  "Column3": 21,
+  "Column4": 9,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Puutarhanhoito",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 225,
+  "Column3": 27,
+  "Column4": 18,
+  "Column5": 36,
+  "Column6": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 321
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 186,
+  "Column3": 24,
+  "Column4": 12,
+  "Column5": 21,
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 255
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 237,
+  "Column3": 33,
+  "Column4": 30,
+  "Column5": 81,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": "1-4",
+  "Column10": 408
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 30,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 99,
+  "Column3": 18,
+  "Column4": 9,
+  "Column5": 45,
+  "Column8": 12,
+  "Column10": 186
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": 12,
+  "Column5": 12,
+  "Column8": 6,
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2015",
+  "Column2": 1272,
+  "Column3": 189,
+  "Column4": 192,
+  "Column5": 495,
+  "Column6": 27,
+  "Column7": 24,
+  "Column8": 102,
+  "Column9": 9,
+  "Column10": 2313
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 75,
+  "Column3": 24,
+  "Column4": 36,
+  "Column5": 42,
+  "Column6": "1-4",
+  "Column7": 18,
+  "Column8": 6,
+  "Column10": 204
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column7": 9,
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 48,
+  "Column3": 15,
+  "Column4": 30,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 120
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 12,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column7": 9,
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Yhteiskunnalliset alat",
+  "Column2": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjasto- ja informaatiotieteet",
+  "Column2": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 192,
+  "Column3": 30,
+  "Column4": 21,
+  "Column5": 69,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 324
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 138,
+  "Column3": 24,
+  "Column4": 18,
+  "Column5": 54,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 243
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column9": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column9": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 408,
+  "Column3": 36,
+  "Column4": 66,
+  "Column5": 201,
+  "Column6": 12,
+  "Column7": 6,
+  "Column8": 45,
+  "Column9": "1-4",
+  "Column10": 777
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column9": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 87
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 48,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 51,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 123
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 48,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 24,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 90
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": 9,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 135,
+  "Column3": 12,
+  "Column4": 24,
+  "Column5": 60,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 18,
+  "Column10": 252
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 60,
+  "Column3": 18,
+  "Column4": 6,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 108
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 57,
+  "Column3": 18,
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 237,
+  "Column3": 27,
+  "Column4": 24,
+  "Column5": 39,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 336
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 186,
+  "Column3": 21,
+  "Column4": 18,
+  "Column5": 27,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 258
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 276,
+  "Column3": 45,
+  "Column4": 30,
+  "Column5": 93,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 24,
+  "Column9": "1-4",
+  "Column10": 480
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 51,
+  "Column3": 12,
+  "Column4": 6,
+  "Column5": 9,
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 111,
+  "Column3": 12,
+  "Column4": 18,
+  "Column5": 48,
+  "Column6": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 207
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 18,
+  "Column3": 12,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 51,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2016",
+  "Column2": 1185,
+  "Column3": 210,
+  "Column4": 168,
+  "Column5": 420,
+  "Column6": 27,
+  "Column7": 9,
+  "Column8": 129,
+  "Column9": 12,
+  "Column10": 2160
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 54,
+  "Column3": 24,
+  "Column4": 30,
+  "Column5": 42,
+  "Column6": "1-4",
+  "Column8": 12,
+  "Column9": 6,
+  "Column10": 171
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 9,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 27,
+  "Column3": 12,
+  "Column4": 18,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 9,
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 186,
+  "Column3": 54,
+  "Column4": 24,
+  "Column5": 60,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 348
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": 12,
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 15,
+  "Column3": 6,
+  "Column5": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 15,
+  "Column3": 6,
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 120,
+  "Column3": 39,
+  "Column4": 24,
+  "Column5": 54,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 258
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 390,
+  "Column3": 42,
+  "Column4": 48,
+  "Column5": 156,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 51,
+  "Column9": "1-4",
+  "Column10": 705
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 12,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 99
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 51,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column8": 12,
+  "Column10": 105
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column4": "1-4",
+  "Column8": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 123,
+  "Column3": 12,
+  "Column4": 15,
+  "Column5": 63,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 18,
+  "Column10": 240
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 54,
+  "Column3": 15,
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 105
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 51,
+  "Column3": 15,
+  "Column4": 9,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 195,
+  "Column3": 39,
+  "Column4": 18,
+  "Column5": 30,
+  "Column7": "1-4",
+  "Column8": 18,
+  "Column10": 300
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 156,
+  "Column3": 33,
+  "Column4": 15,
+  "Column5": 15,
+  "Column8": 12,
+  "Column10": 234
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 24,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": "1-4",
+  "Column7": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 285,
+  "Column3": 30,
+  "Column4": 33,
+  "Column5": 78,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": "1-4",
+  "Column10": 453
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 48,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 69
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 129,
+  "Column3": 9,
+  "Column4": 21,
+  "Column5": 36,
+  "Column8": 12,
+  "Column10": 207
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 18,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 39
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 54,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 78
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2017",
+  "Column2": 1173,
+  "Column3": 171,
+  "Column4": 156,
+  "Column5": 285,
+  "Column6": 21,
+  "Column7": 18,
+  "Column8": 105,
+  "Column9": 6,
+  "Column10": 1932
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 69,
+  "Column3": 15,
+  "Column4": 21,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column7": 15,
+  "Column8": 9,
+  "Column10": 150
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column7": 9,
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 42,
+  "Column3": 12,
+  "Column4": 18,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 87
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": 6,
+  "Column7": 6,
+  "Column8": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 174,
+  "Column3": 21,
+  "Column4": 15,
+  "Column5": 36,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 255
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 42,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 102,
+  "Column3": 15,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 168
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 27,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 72
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 27,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 72
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 357,
+  "Column3": 42,
+  "Column4": 48,
+  "Column5": 102,
+  "Column6": 15,
+  "Column7": "1-4",
+  "Column8": 39,
+  "Column9": "1-4",
+  "Column10": 603
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 9,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 18,
+  "Column8": 6,
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 33,
+  "Column3": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 39,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 24,
+  "Column4": 12,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 117,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 30,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 18,
+  "Column9": "1-4",
+  "Column10": 198
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 69,
+  "Column3": 15,
+  "Column4": 15,
+  "Column5": 12,
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 120
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 60,
+  "Column3": 15,
+  "Column4": 12,
+  "Column5": 12,
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 111
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 189,
+  "Column3": 36,
+  "Column4": 18,
+  "Column5": 33,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 282
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 150,
+  "Column3": 30,
+  "Column4": 12,
+  "Column5": 15,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 216
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 288,
+  "Column3": 33,
+  "Column4": 30,
+  "Column5": 57,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column10": 435
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 33,
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 42,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 102,
+  "Column3": 12,
+  "Column4": 12,
+  "Column5": 24,
+  "Column8": 12,
+  "Column10": 162
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Urheilu ja liikunta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 18,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column6": "1-4",
+  "Column10": 21
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 72,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 18,
+  "Column8": "1-4",
+  "Column10": 102
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2018",
+  "Column2": 1440,
+  "Column3": 141,
+  "Column4": 141,
+  "Column5": 333,
+  "Column6": 39,
+  "Column7": 9,
+  "Column8": 117,
+  "Column9": 9,
+  "Column10": 2229
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 75,
+  "Column3": 9,
+  "Column4": 24,
+  "Column5": 39,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 156
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": 6,
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": 21,
+  "Column5": 21,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 93
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 234,
+  "Column3": 33,
+  "Column4": 15,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 330
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 45,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 141,
+  "Column3": 21,
+  "Column4": 15,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 219
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 36,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 36,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 84
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 420,
+  "Column3": 27,
+  "Column4": 36,
+  "Column5": 132,
+  "Column6": 27,
+  "Column7": "1-4",
+  "Column8": 45,
+  "Column9": "1-4",
+  "Column10": 693
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Ympäristönsuojeluteknologia",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 54,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 18,
+  "Column6": 9,
+  "Column8": 6,
+  "Column10": 99
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 33,
+  "Column4": "1-4",
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 48,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 51,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 72
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 162,
+  "Column3": 12,
+  "Column4": 9,
+  "Column5": 39,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 18,
+  "Column10": 252
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 69,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 114
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 60,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 99
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 291,
+  "Column3": 30,
+  "Column4": 18,
+  "Column5": 24,
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 375
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 231,
+  "Column3": 30,
+  "Column4": 15,
+  "Column5": 15,
+  "Column8": 9,
+  "Column10": 294
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 12,
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Vanhus- ja vammaistyö",
+  "Column2": 6,
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 30,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column10": 42
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 309,
+  "Column3": 27,
+  "Column4": 27,
+  "Column5": 66,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 30,
+  "Column9": "1-4",
+  "Column10": 468
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 48,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 96,
+  "Column3": 9,
+  "Column4": 15,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": "1-4",
+  "Column10": 174
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 18,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column9": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 108,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 141
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2019",
+  "Column2": 1371,
+  "Column3": 108,
+  "Column4": 120,
+  "Column5": 303,
+  "Column6": 42,
+  "Column7": 24,
+  "Column8": 120,
+  "Column9": 9,
+  "Column10": 2097
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 57,
+  "Column3": 9,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": "1-4",
+  "Column7": 18,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 138
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Muoti, sisustussunnittelu ja teollinen muotoilu",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column4": "1-4",
+  "Column7": 9,
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 18,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 72
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column7": 9,
+  "Column9": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 264,
+  "Column3": 30,
+  "Column4": 21,
+  "Column5": 42,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 381
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 54,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column9": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 27,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 171,
+  "Column3": 24,
+  "Column4": 15,
+  "Column5": 36,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 270
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 36,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": 6,
+  "Column8": 9,
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 36,
+  "Column4": 15,
+  "Column5": 30,
+  "Column6": 6,
+  "Column8": 9,
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 351,
+  "Column3": 27,
+  "Column4": 27,
+  "Column5": 90,
+  "Column6": 18,
+  "Column8": 42,
+  "Column9": "1-4",
+  "Column10": 558
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 12,
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 48,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 81
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 39,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 15,
+  "Column6": 6,
+  "Column8": 6,
+  "Column10": 72
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 51
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 51,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 108,
+  "Column3": 6,
+  "Column4": 9,
+  "Column5": 27,
+  "Column6": 6,
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 171
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 60,
+  "Column3": 12,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 54,
+  "Column3": 9,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 87
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 279,
+  "Column3": 15,
+  "Column4": 12,
+  "Column5": 24,
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 348
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 219,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 12,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 264
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 6,
+  "Column5": 6,
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 315,
+  "Column3": 18,
+  "Column4": 21,
+  "Column5": 72,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 27,
+  "Column9": "1-4",
+  "Column10": 465
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 30,
+  "Column5": 6,
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 39,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 102,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 162
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 39
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 12,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 102,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 27,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column10": 153
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2020",
+  "Column2": 1161,
+  "Column3": 129,
+  "Column4": 129,
+  "Column5": 348,
+  "Column6": 69,
+  "Column7": 6,
+  "Column8": 102,
+  "Column9": "1-4",
+  "Column10": 1944
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kasvatusalat",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Aineenopettajien koulutus",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 36,
+  "Column3": 12,
+  "Column4": 9,
+  "Column5": 21,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 90
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuvataiteet",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": 21,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 15,
+  "Column8": 6,
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Taidealat, monialaiset koulutusohjelmat",
+  "Column2": "1-4",
+  "Column7": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Yhteiskunnalliset alat",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjasto- ja informaatiotieteet",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 252,
+  "Column3": 30,
+  "Column4": 18,
+  "Column5": 63,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 384
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": 12,
+  "Column5": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rahoitus-, pankki- ja vakuutusala",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 39,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sihteeri ja toimistotyö",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 27,
+  "Column3": 6,
+  "Column5": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 168,
+  "Column3": 21,
+  "Column4": 18,
+  "Column5": 51,
+  "Column6": 9,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column10": 276
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": 12,
+  "Column5": 33,
+  "Column6": 6,
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": 12,
+  "Column5": 33,
+  "Column6": 6,
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 312,
+  "Column3": 18,
+  "Column4": 27,
+  "Column5": 105,
+  "Column6": 39,
+  "Column8": 33,
+  "Column10": 534
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": 6,
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": 6,
+  "Column8": 6,
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 36,
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 57
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 27,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column8": "1-4",
+  "Column10": 33
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 33,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 30,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 96,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 51,
+  "Column6": 27,
+  "Column8": 9,
+  "Column10": 189
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 63,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 111
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 57,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 15,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 96
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 267,
+  "Column3": 30,
+  "Column4": 18,
+  "Column5": 27,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 360
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 207,
+  "Column3": 24,
+  "Column4": 12,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 9,
+  "Column9": "1-4",
+  "Column10": 267
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuntoutus",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 36,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 15,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 24
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 207,
+  "Column3": 30,
+  "Column4": 30,
+  "Column5": 72,
+  "Column6": 12,
+  "Column7": "1-4",
+  "Column8": 21,
+  "Column9": "1-4",
+  "Column10": 375
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 30,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 33,
+  "Column3": 9,
+  "Column4": 9,
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 57,
+  "Column3": 9,
+  "Column4": 12,
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 111
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Urheilu ja liikunta",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 6,
+  "Column9": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat, monialaiset koulutusohjelmat",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 18,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 54,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column6": 9,
+  "Column8": 9,
+  "Column10": 102
+ },
+ {
+  "1 v. tutkinnon jälkeen": "2021",
+  "Column2": 987,
+  "Column3": 111,
+  "Column4": 87,
+  "Column5": 207,
+  "Column6": 48,
+  "Column7": 12,
+  "Column8": 93,
+  "Column9": 9,
+  "Column10": 1551
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Humanistiset ja taidealat",
+  "Column2": 39,
+  "Column3": 9,
+  "Column4": 15,
+  "Column5": 12,
+  "Column7": 6,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 90
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Audiovisuaaliset tekniikat ja media",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 9
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Käsityöalat",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Musiikki ja esittävät taiteet",
+  "Column2": 9,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": "1-4",
+  "Column7": 6,
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 36
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Taidealat, monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa, hallinto ja oikeustieteet",
+  "Column2": 207,
+  "Column3": 27,
+  "Column4": 15,
+  "Column5": 27,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 297
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kirjanpito ja verotus",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Johto ja hallinto",
+  "Column2": 57,
+  "Column3": 6,
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Markkinointi ja mainonta",
+  "Column5": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tukku ja vähittäiskauppa",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column10": 27
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kauppa ja hallinto, monialaiset koulutusohjelmat",
+  "Column2": 120,
+  "Column3": 18,
+  "Column4": 15,
+  "Column5": 24,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 12,
+  "Column9": "1-4",
+  "Column10": 198
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Luonnontieteet",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elinympäristöt ja luonto",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely ja tietoliikenne (ICT)",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tietojenkäsittely- ja tietoliikenne ICT), monialaiset koulutusohjelmat",
+  "Column2": 21,
+  "Column3": "1-4",
+  "Column4": 6,
+  "Column5": 12,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 48
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekniikan alat",
+  "Column2": 255,
+  "Column3": 21,
+  "Column4": 24,
+  "Column5": 66,
+  "Column6": 30,
+  "Column7": "1-4",
+  "Column8": 39,
+  "Column10": 438
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kemian tekniikka ja prosessit",
+  "Column2": 6,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sähkö ja energia",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elektroniikka ja automatiikka",
+  "Column2": 24,
+  "Column3": 6,
+  "Column4": 6,
+  "Column5": 15,
+  "Column6": 6,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column10": 63
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Mekaniikka ja metalliala",
+  "Column2": 42,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column6": 9,
+  "Column8": "1-4",
+  "Column10": 66
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Moottoriajoneuvo-, laiva- ja lentokonetekniikka",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 45
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kone-, energia- ja sähkötekniikka, monialaiset koulutusohjelmat",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column10": 15
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Elintarvikeala",
+  "Column2": 24,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 30
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Materiaalitekniikka (lasi, paperi, muovi ja puu)",
+  "Column2": 42,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 6,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 60
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Tekstiilitekniikka (vaatteet, jalkineet ja nahkatuotteet)",
+  "Column2": "1-4",
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Rakentaminen ja rakennussuunnittelu",
+  "Column2": 75,
+  "Column3": "1-4",
+  "Column4": 9,
+  "Column5": 21,
+  "Column6": 15,
+  "Column8": 12,
+  "Column10": 135
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Maa- ja metsätalousalat",
+  "Column2": 48,
+  "Column3": 12,
+  "Column4": 6,
+  "Column5": 9,
+  "Column7": "1-4",
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 87
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Viljan ja karjantuotanto",
+  "Column2": 48,
+  "Column3": 12,
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": 6,
+  "Column9": "1-4",
+  "Column10": 81
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kalatalous",
+  "Column2": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column7": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveys- ja hyvinvointialat",
+  "Column2": 216,
+  "Column3": 24,
+  "Column4": 15,
+  "Column5": 21,
+  "Column6": "1-4",
+  "Column8": 9,
+  "Column10": 285
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hoitotyö",
+  "Column2": 159,
+  "Column3": 18,
+  "Column4": 12,
+  "Column5": 9,
+  "Column6": "1-4",
+  "Column8": 6,
+  "Column10": 207
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Terveystekniikka, kuvantaminen ja bioanalytiikka",
+  "Column2": 6,
+  "Column4": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuntoutus",
+  "Column2": 9,
+  "Column3": "1-4",
+  "Column5": "1-4",
+  "Column10": 12
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Lastenhoito ja nuorisotyö",
+  "Column2": 36,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 9,
+  "Column8": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Sosiaalityö ja -ohjaus",
+  "Column2": "1-4",
+  "Column5": "1-4",
+  "Column10": 6
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat",
+  "Column2": 195,
+  "Column3": 18,
+  "Column4": 9,
+  "Column5": 54,
+  "Column6": "1-4",
+  "Column7": "1-4",
+  "Column8": 15,
+  "Column9": "1-4",
+  "Column10": 294
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kotitalouspalvelut",
+  "Column2": 54,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column7": "1-4",
+  "Column8": "1-4",
+  "Column10": 75
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hiusten ja kauneudenhoitopalvelut",
+  "Column2": 30,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": 12,
+  "Column8": 6,
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Hotelli- ja ravintola-ala",
+  "Column2": 39,
+  "Column3": 6,
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 54
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Matkailu, turismi ja vapaa-aika",
+  "Column2": 12,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Palvelualat, monialaiset koulutusohjelmat",
+  "Column2": "1-4",
+  "Column10": "1-4"
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Suojeluala",
+  "Column2": 15,
+  "Column3": "1-4",
+  "Column8": "1-4",
+  "Column9": "1-4",
+  "Column10": 18
+ },
+ {
+  "1 v. tutkinnon jälkeen": "Kuljetuspalvelut",
+  "Column2": 45,
+  "Column3": "1-4",
+  "Column4": "1-4",
+  "Column5": 24,
+  "Column6": "1-4",
+  "Column8": "1-4",
+  "Column10": 75
+ }
+],
+"Graafi":[],
+"Ohjeet":[
+ null,
+ {
+  "Käsitteet ja määritelmät": "Vipunen tilastopalvelun raporttien muuttujien kuvaukset löytyvät osoitteesta Vipunen --> Tietoja palvelusta --> Käsitteet ja määritelmät:"
+ },
+ {
+  "Käsitteet ja määritelmät": "Käsitteet ja määritelmät"
+ },
+ null,
+ {
+  "Käsitteet ja määritelmät": "Käyttöohje - raportointiohjelman perusominaisuudet"
+ },
+ null,
+ {
+  "Käsitteet ja määritelmät": "Aloitusnäkymä: "
+ },
+ {
+  "Käsitteet ja määritelmät": "Raportin aloitusnäkymässä selainruudun vasemmassa laidassa näkyy vihreä valikko, jossa on mahdollista suodattaa raportin tietoja, tulostaa raportin eri osia sekä ladata raportin tietoja omalle tietokoneelle. Näkymän oikeassa laidassa on neljä välilehteä: taulukko, graafi, ohjeet ja raporttiselite. Ohjeet sisältää linkin raportilla käytettyjen muuttujien kuvauksiin sekä ohjeita raportointiohjelman ominaisuuksien käytöstä. Raporttiselite kertoo, mitä tietoja taulukko ja graafi sisältävät, ja minkälaisilla valinnoilla niitä on suodatettu (se päivittyy automaattisesti käyttäjän tekemien valintojen mukaan).\n"
+ },
+ {
+  "Käsitteet ja määritelmät": "Taulukon ja graafin lukeminen:"
+ },
+ {
+  "Käsitteet ja määritelmät": "Taulukko ja graafi koostetaan jonkin lukumäärämuuttujan tai -muuttujien tietojen pohjalta (esimerkiksi ’opiskelijat’, ’uudet opiskelijat’ tai ’tutkinnot’). Lukumäärämuuttujan nimi näkyy joko taulukon vasemmassa ylälaidassa tai sarakeotsikoissa (useamman lukumäärämuuttujan tapauksessa sarakkeilla, muuten vasemmassa yläkulmassa). Graafissa nimi näkyy otsikossa.\n\nTaulukon lukumäärätietoja tarkastellaan rivi- ja sarakemuuttujien mukaan. Aloitusnäkymässä riveillä on tietty muuttuja (esimerkiksi 'koulutusala'), jonka tiedot on tyypillisesti jaoteltu sarakkeittain (esimerkiksi 'koulutustyypin' mukaan). Muuttujien nimet voi tarkistaa rivien ja sarakkeiden yläpuolella näkyvistä alaspäin osoittavista nuolista (klikkaa hiiren vasemmalla painikkeella).\n\nTaulukon riveillä on mahdollista porautua useammalle tasolle rivinimikkeen viereistä + -merkkiä painamalla. Alemmat porautumistasot sisältävät ylemmän rivimuuttujan mukaan jäsennettyjä tarkempia lukumäärätietoja (esimerkiksi ’vuosi 2010´ -> ’yliopistojen tiedot vuodelta 2010’).\n\nGraafissa käytettyjen muuttujien nimet näkyvät kuvaajan vieressä."
+ },
+ {
+  "Käsitteet ja määritelmät": "Taulukon ja graafin tietojen suodattaminen: "
+ },
+ {
+  "Käsitteet ja määritelmät": "Taulukon ja graafin lukumäärätiedot voi suodattaa koskemaan vain tiettyjä aiheita (esimerkiksi tietty asuinalue, koulutusala, tilastovuosi jne.). Suodatus onnistuu näkymän vasemman puolen vihreistä suodatusvalikoista. Suodatusvalinta tapahtuu avaamalla muuttujan valikon (esimerkiksi 'tilastovuosi') ja klikkaamalla haluamansa valinnan (esimerkiksi '2010'). Valinnan jälkeen taulukossa ja graafissa näytetään vain valinnan mukaista tietoa (esimerkiksi vain tilastovuoden ’2010’ tiedot). Myös monivalintojen tekeminen onnistuu Shift- ja Ctrl-näppäimien avulla (Shift tai Ctrl pohjaan, klikkaa sitten useampi valinta hiiren vasemmalla painikkeella).\n\nRaporttia voi suodattaa yhtä aikaa niin monella eri valinnalla kuin on tarpeen. Kaikki valinnat ovat yhteydessä toisiinsa. Esimerkiksi valitsemalla suodatusvalikosta ’koulutusala’ valinnan ”humanistinen ja kasvatusala”, suodatusvalikossa ’opintoala’ näkyvät humanistiseen ja kasvatusalaan kuuluvat opintoalat. Valinnat vaikuttavat samanaikaisesti sekä taulukon että graafin tietoihin.\n\n(huom! Tehdyt valinnat voi aina varmistaa reaaliajassa päivittyvältä \"Raporttiselite\" -välilehdeltä.)\n"
+ },
+ {
+  "Käsitteet ja määritelmät": "Raporttiselite:"
+ },
+ {
+  "Käsitteet ja määritelmät": "Tärkeät raporttia koskevat tiedot on koottu yhteen raporttiselitteeseen. Se pitää sisällään raportin pohjadatan kuvauksen sekä näyttää sen, mitä lukumäärätietoja taulukkoon ja graafiin on valittu. Tämän lisäksi raportille tehtävät suodatukset päivittyvät automaattisesti selitteen alaosaan.\n\nRaporttiselite on suunniteltu erityisesti raportin jatkokäyttöä, analyyseja ja tulostamista varten.\n\n(huom! Selite näyttää maksimissaan sata rajausvalintaa \/ muuttuja; eri muuttujia valintoineen mahtuu yhtä aikaa näkyville n. 10 - 15.)"
+ },
+ {
+  "Käsitteet ja määritelmät": "Raportin tulostaminen ja tietojen jatkokäsittely:"
+ },
+ {
+  "Käsitteet ja määritelmät": "Sekä taulukon että graafin, ohjeet ja raporttiselitteen voi tulostaa näkymän vasemmalta laidalta valinnasta 'Tulosta', joka löytyy ’Asetukset’-valikosta. Tulostettaessa on mahdollista tulostaa koko näkymä tai vain tietty osa siitä. Tietyn osan voi tulostaa maalamalla hiiren vasemmalla painikkeella näkymästä haluamansa osan ennen 'Tulosta' -valintaa.\n\nRaportin voi ladata omalle tietokoneelle 'Asetukset'-valikon valinnasta 'Lataa'. Tiedosto latautuu siinä muodossa, johon raportti on muokattu verkkoselaimen raportointiohjelmalla. Tämä koskee sekä taulukon että graafin rakennetta, suodatuksia ja raporttiselitettä. Huomaa, että raportin ominaisuuksia (suodatukset, muokkausominaisuus) ei voi käyttää oman tietokoneen taulukkolaskentaohjelmalla enää latauksen jälkeen.\n\nRaportin tiedot voi siirtää omalle tietokoneelle myös maalaamalla hiiren vasemmalla painikkeella siitä osia, ja kopioimalla ne painamalla Ctrl + C. Liittäminen taulukkolaskentaohjelman työkirjalle onnistuu painamalla Ctrl + V. Maalaamalla voi kopioida niin taulukon ja graafin kuin ohjeet ja raporttiselitteenkin.\n"
+ },
+ {
+  "Käsitteet ja määritelmät": "Käyttöohje - raportointiohjelman lisäominaisuudet"
+ },
+ null,
+ {
+  "Käsitteet ja määritelmät": "Taulukon ja graafin sisällön muokkaaminen (Pivot-ominaisuus):"
+ },
+ {
+  "Käsitteet ja määritelmät": "Taulukossa ja graafissa on aloitusnäkymässä aina tiettyjen muuttujien tiedot (esimerkiksi riveillä 'koulutusala', sarakkeilla 'koulutustyyppi' ja lukumäärätietona 'opiskelijat'). Kaikki muuttujat on kuitenkin mahdollista vaihtaa raportin Pivot-ominaisuutta käyttämällä. Pivot-ominaisuus tarjoaa käyttäjälle mahdollisuuden rakentaa itse erilaisia taulukoita ja graafeja raportin tiedoista. Ominaisuus löytyy näkymän oikealta laidalta välilehtikuvien oikealta puolelta. Graafilla ja taulukolla on molemmilla omat Pivot-ominaisuutensa, jotka eivät ole yhteydessä toisiinsa (huomaa, että suodatusvalikosta tehdyt rajaukset vaikuttavat silti yhtä aikaa sekä taulukkoon että graafiin).\n\nPivot-näkymän yläosassa on lista muuttujista, joita taulukkoon ja graafiin on mahdollista sijoittaa. Muuttujat on lajiteltu sisältönsä mukaan ryhmiin (esimerkiksi 'Henkilömuuttujat' sisältää henkilöön liittyviä muuttujia kuten ’sukupuoli’ ja ’äidinkieli’ ja ’Koulutusmuuttujat’ sisältää koulutukseen liittyviä muuttujia kuten ’koulutusaste’ ja ’opintoala’). Muuttujat ovat tyypillisesti samoja kuin ne, joilla raportin sisältöä on mahdollista rajata vasemman laidan suodatusvalikoissa.\n\nPivot-näkymän alaosassa on nelikenttä, johon muuttujia sijoitetaan. Rivikenttään sijoitetut muuttujat menevät taulukon riveille, sarakekenttään sarakkeille. Arvokenttään sijoitetaan lukumäärämuuttujia, jotka määrittelevät taulukon sisältämät lukumäärätiedot. Toimintaperiaate on sama graafissa.\n\nNelikentässä muuttujien järjestys määrää niiden hierarkian taulukossa ja graafissa. Rivikentän, sarakekentän ja arvokentän ylimmät muuttujat ovat taulukossa ja graafissa ylimmillä tasoilla, alemmat muuttujat menevät järjestyksessä alemmille porautumistasoille.\n\nMuuttujia voi sijoitella vapaasti nelikenttään vetämällä ne sinne nelikentän yläpuolella olevasta listasta (hiiren vasemmalla painikkeella). Muuttujien järjestystä voi muuttaa nelikentässä samalla tavalla. Muuttujien nimien vieressä näkyvät valintaruudut nopeuttavat valintoja.\n"
+ },
+ {
+  "Käsitteet ja määritelmät": "Rajauksen ja lajittelun lisäominaisuudet:"
+ },
+ {
+  "Käsitteet ja määritelmät": "Raportin tietoja on mahdollista rajata myös täsmällisemmillä säännöillä kuten ’näytä vain tietokentät, joiden lukumäärä ylittää arvon 200’. Nämä ominaisuudet löytyvät taulukon ja graafin nuolivalikoista sekä Pivot-ominaisuuden muuttujalistasta (klikkaa muuttujanimen vieressä näkyvää pientä nuolta hiiren vasemmalla painikkeella). Erilaiset lajitteluvaihtoehdot löytyvät samoista valikoista (esimerkiksi ’lajittele arvon mukaan suuruusjärjestyksessä’)."
+ }
+],
+"Raporttiselite":[
+ null,
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Raportin perustiedot:"
+ },
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Raportilla tarkastellaan tilastovuotta edeltävinä vuosina (1v, 3v tai 5v) ammatillisen tutkinnon suorittaneiden työllistymistä ja jatko-opintoihin sijoittumista tilastovuoden lopussa. Tilastovuosi-muuttujassa valitaan tarkasteltava tilastovuosi, ja lukumäärämuuttujat \"1 v. tutkinnon jälkeen\", \"3 v. tutkinnon jälkeen\" ja \"5 v. tutkinnon jälkeen\" viittaavat tilastovuotta edeltäviin tutkinnon suoritusvuosiin. Esimerkiksi tilastovuoden 2012 kohdalla \"1 v. tutkinnon jälkeen\" viittaa vuonna 2011 tutkinnon suorittaneisiin, \"3 v. tutkinnon jälkeen\" vuonna 2009 tutkinnon suorittaneisiin, ja \"5 v. tutkinnon jälkeen\" vuonna 2007 tutkinnon suorittaneisiin.\n\nHuom! Raportille on tehty tietosuojaus. Henkilöitä koskevat lukumäärät 1-4 näytetään arvona \"1-4\" ja neljää suuremmat lukumäärät pyöristetään lähimpään kolmella jaolliseen lukuun. Mahdolliset prosenttiosuudet lasketaan suojatuilla lukumäärillä. Suojauksen tuottamat prosentuaaliset muutokset ovat suurempien arvojen osalta marginaalisia. Esimerkiksi sadan (100) tapauksen osalta virhe on korkeintaan 1 %, ja tuhannen (1000) tapauksen osalta korkeintaan 0,1 %.\n\nHenkilöt on poimittu aineistoon viimeisimmän ja korkeimman suoritetun tutkinnon mukaan. Huom! Aineistosta on poistettu aina tilastovuosittain ja tarkastelujaksoittain (1v, 3v tai 5v) ne henkilöt, jotka ovat suorittaneet korkeamman tutkinnon tarkastelujakson kuluessa, koska aikaisempi tutkinto ei vastaa enää todellista työmarkkinatilannetta tarkasteltavan tilastovuoden lopussa. Esimerkiksi henkilö, joka on suorittanut vuonna 2009 ammatillisen tutkinnon ja vuonna 2011 ammattikorkeakoulututkinnon, on mukana tilastovuoden 2010 aineistossa \"1 v. tutkinnon jälkeen\", mutta hän ei ole mukana tilastovuoden 2012 aineistossa \"3 v. tutkinnon jälkeen\", koska vuonna 2009 suoritettu ammatillinen tutkinto ei ole enää hänen korkein tutkintonsa.\n\nAsuinmaakunta viittaa opiskelijan asuinmaakuntaan tilastovuoden lopussa, ei tutkinnon suoritusvuoden lopussa.\n\nTietolähde: opetushallinnon ja Tilastokeskuksen tietopalvelusopimuksen aineisto 4.3."
+ },
+ null,
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Taulukon lukumäärätieto\/(tiedot): \nGraafin lukumäärätieto\/(tiedot): 1 v. tutkinnon jälkeen"
+ },
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Käyttäjän tekemät rajaukset (ml.oletusvalinnat):"
+ },
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Tilastovuosi: 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021\n\nKoulutuksen järjestäjä: Koulutuskeskus Salpaus -Kuntayhtymä\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+ },
+ {
+  "Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen": "Vipunen - Opetushallinnon tilastopalvelu - Raportti haettu 13.03.2024"
+ }
+]
+}
