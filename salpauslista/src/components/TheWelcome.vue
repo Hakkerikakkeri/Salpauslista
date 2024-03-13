@@ -7,11 +7,10 @@
           <div class="excel-cell" v-for="(header, index) in headers" :key="index">{{ header }}</div>
         </div>
         <template v-for="(rowData, index) in formattedData" :key="index">
-          <div v-if="index !== 0" class="excel-row"> <!-- Skip the first row -->
+          <div v-if="index !== 0" class="excel-row">
             <div class="excel-cell" v-for="(value, key) in rowData" :key="key">{{ value }}</div>
           </div>
-          <div v-if="openYears[index - 1]" class="extra-data"> <!-- Adjust index for openYears -->
-            <!-- Additional data for the opened year -->
+          <div v-if="openYears[index - 1]" class="extra-data">
           </div>
         </template>
       </div>
@@ -24,7 +23,11 @@
 import { ref } from 'vue';
 import jsonData from '../data/tilastovuosi.json';
 
-const formattedData = jsonData['Kohde 1'].map((row, index) => {
+interface KohdeData {
+  [key: string]: string | number;
+}
+
+const formattedData = jsonData['Kohde 1'].map((row: KohdeData, index: number) => {
     if (index === 0) return row;
     const formattedRow = {};
     Object.entries(row).forEach(([key, value]) => {
@@ -55,8 +58,6 @@ const openYears = ref(Array(formattedData.length - 1).fill(false));
 
 .excel-table {
   display: table;
-  
-
 }
 
 .excel-row {
