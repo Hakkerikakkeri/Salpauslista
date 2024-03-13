@@ -1,18 +1,16 @@
 <template>
   <div class="container">
-    <h1 class="title">Data:</h1>
-    <div v-if="jsonData" class="data-container">
+    <h1 class="title">Ammatillisen tutkinnon suorittaneiden työllistyminen ja jatko-opintoihin sijoittuminen</h1>
+    <div v-if="formattedData" class="data-container">
       <div class="excel-table">
         <div class="excel-row header-row">
           <div class="excel-cell" v-for="(header, index) in headers" :key="index">{{ header }}</div>
         </div>
-        <template v-for="(rowData, index) in jsonData['Kohde 1'].slice(1)" :key="index">
-          <div class="excel-row">
+        <template v-for="(rowData, index) in formattedData" :key="index">
+          <div v-if="index !== 0" class="excel-row"> <!-- Skip the first row -->
             <div class="excel-cell" v-for="(value, key) in rowData" :key="key">{{ value }}</div>
-            <div class="excel-cell">
-            </div>
           </div>
-          <div v-if="openYears[index]" class="extra-data">
+          <div v-if="openYears[index - 1]" class="extra-data"> <!-- Adjust index for openYears -->
             <!-- Additional data for the opened year -->
           </div>
         </template>
@@ -26,23 +24,29 @@
 import { ref } from 'vue';
 import jsonData from '../data/tilastovuosi.json';
 
-const headers = Object.values(jsonData['Kohde 1'][0]); // Extract headers from the first object
+const formattedData = jsonData['Kohde 1'].map((row, index) => {
+    if (index === 0) return row;
+    const formattedRow = {};
+    Object.entries(row).forEach(([key, value]) => {
+        if (typeof value === "string" && value === "1-4") {
+            value = "2";
+        }
+        formattedRow[key] = value;
+    });
+    return formattedRow;
+});
 
-const openYears = ref(Array(jsonData['Kohde 1'].length - 1).fill(false));
-
+const headers = Object.values(formattedData[0]);
+const openYears = ref(Array(formattedData.length - 1).fill(false));
 </script>
 
 <style scoped>
 .container {
+  font-size: 13px;
   max-width: 800px;
   margin: auto;
   padding: 20px;
   color: black;
-}
-
-.title {
-  font-size: 24px;
-  margin-bottom: 10px;
 }
 
 .data-container {
