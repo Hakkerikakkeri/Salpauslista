@@ -3,18 +3,22 @@
     <h1 class="title">Tutkinnon suorittaneiden sijoittuminen</h1>
     <div v-if="jsonData" class="data-container">
       <div class="excel-table">
+        <!-- Render headers -->
         <div class="excel-row header-row">
           <div class="excel-cell" v-for="(header, index) in headers" :key="index">{{ header }}</div>
         </div>
 
+        <!-- Render rows -->
         <template v-for="(rowData, rowIndex) in jsonData['Kohde 1']" :key="rowIndex">
-          <div class="excel-row" v-if="rowData.vuosiluku">
+          <!-- Render row if it contains "vuosiluku" -->
+          <div class="excel-row" v-if="rowData.hasOwnProperty('vuosiluku')">
             <div class="excel-cell" v-for="(value, key) in rowData" :key="key">
-              {{(value === '1-4' ? 2 : value) }}
+              {{ value === '1-4' ? 2 : value }}
             </div>
           </div>
-          <div class="excel-row" v-else-if="rowData.ala">
-            <div class="excel-cell" v-for="(value, key) in rowData" :key="key" v-if="key === 'vuosiluku'">{{ value }}</div>
+          <!-- Hide row if it contains "ala" -->
+          <div class="excel-row" v-else-if="rowData.hasOwnProperty('ala')">
+            <div class="excel-cell" v-for="(value, key) in rowData" :key="key" v-if="key === 'ala'">{{ value }}</div>
           </div>
         </template>
       </div>
