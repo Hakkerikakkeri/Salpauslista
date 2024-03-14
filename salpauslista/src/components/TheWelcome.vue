@@ -8,12 +8,13 @@
         </div>
 
         <template v-for="(rowData, rowIndex) in jsonData['Kohde 1']" :key="rowIndex">
-          <div class="excel-row" v-if="rowIndex !== 0">
+          <div class="excel-row" v-if="rowData.vuosiluku">
             <div class="excel-cell" v-for="(value, key) in rowData" :key="key">
-              {{ value === '1-4' ? 2 : value }}
+              {{(value === '1-4' ? 2 : value) }}
             </div>
           </div>
-          <div v-if="openYears[rowIndex] && rowIndex !== 0" class="extra-data">
+          <div class="excel-row" v-else-if="rowData.ala">
+            <div class="excel-cell" v-for="(value, key) in rowData" :key="key" v-if="key === 'vuosiluku'">{{ value }}</div>
           </div>
         </template>
       </div>
