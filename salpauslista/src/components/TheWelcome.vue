@@ -1,19 +1,19 @@
 <template>
   <div class="container">
-    <h1 class="title">Data:</h1>
+    <h1 class="title">Tutkinnon suorittaneiden sijoittuminen</h1>
     <div v-if="jsonData" class="data-container">
       <div class="excel-table">
         <div class="excel-row header-row">
           <div class="excel-cell" v-for="(header, index) in headers" :key="index">{{ header }}</div>
         </div>
-        <template v-for="(rowData, index) in jsonData['Kohde 1']" :key="index">
-          <div class="excel-row">
-            <div v-if="index !== 0" class="excel-cell" v-for="(value, key) in rowData" :key="key" @click="toggleYearData(index)">{{ value }}</div>
-          </div>
-          <div v-if="openYears[index] && index !== 0" class="extra-data">
-            <div class="excel-row">
-              <div class="excel-cell" v-for="(value, key) in alaData[index]" :key="key">{{ value }}</div>
+
+        <template v-for="(rowData, rowIndex) in jsonData['Kohde 1']" :key="rowIndex">
+          <div class="excel-row" v-if="rowIndex !== 0">
+            <div class="excel-cell" v-for="(value, key) in rowData" :key="key">
+              {{ value === '1-4' ? 2 : value }}
             </div>
+          </div>
+          <div v-if="openYears[rowIndex] && rowIndex !== 0" class="extra-data">
           </div>
         </template>
       </div>
@@ -26,15 +26,11 @@
 import { ref } from 'vue';
 import jsonData from '../data/tilastovuosi2.json';
 
-const headers = Object.values(jsonData['Kohde 1'][0]); // Extract headers from the first object
+const headers = Object.values(jsonData['Kohde 1'][0]);
 
 const openYears = ref(Array(jsonData['Kohde 1'].length).fill(false));
 
-const alaData = ref(jsonData['Kohde 1'].slice(1).map(entry => entry)); // Prepare additional data for "ala"
 
-const toggleYearData = (index: number) => {
-  openYears.value[index] = !openYears.value[index];
-};
 </script>
 
 <style scoped>
@@ -43,11 +39,6 @@ const toggleYearData = (index: number) => {
   margin: auto;
   padding: 20px;
   color: black;
-}
-
-.title {
-  font-size: 24px;
-  margin-bottom: 10px;
 }
 
 .data-container {
