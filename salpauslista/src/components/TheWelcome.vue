@@ -8,10 +8,12 @@
         </div>
         <template v-for="(rowData, index) in jsonData['Kohde 1']" :key="index">
           <div class="excel-row">
-            <div v-if="index !== 0" class="excel-cell" v-for="(value, key) in rowData" :key="key">{{ value }}</div>
+            <div v-if="index !== 0" class="excel-cell" v-for="(value, key) in rowData" :key="key" @click="toggleYearData(index)">{{ value }}</div>
           </div>
           <div v-if="openYears[index] && index !== 0" class="extra-data">
-            <!-- Additional data for the opened year -->
+            <div class="excel-row">
+              <div class="excel-cell" v-for="(value, key) in alaData[index]" :key="key">{{ value }}</div>
+            </div>
           </div>
         </template>
       </div>
@@ -28,7 +30,11 @@ const headers = Object.values(jsonData['Kohde 1'][0]); // Extract headers from t
 
 const openYears = ref(Array(jsonData['Kohde 1'].length).fill(false));
 
+const alaData = ref(jsonData['Kohde 1'].slice(1).map(entry => entry)); // Prepare additional data for "ala"
 
+const toggleYearData = (index: number) => {
+  openYears.value[index] = !openYears.value[index];
+};
 </script>
 
 <style scoped>
