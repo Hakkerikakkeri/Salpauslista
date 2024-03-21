@@ -3,22 +3,15 @@
     <h1 class="title">Tutkinnon suorittaneiden sijoittuminen</h1>
     <div v-if="jsonData" class="data-container">
       <div class="excel-table">
-        <!-- Render headers -->
         <div class="excel-row header-row">
           <div class="excel-cell" v-for="(header, index) in headers" :key="index">{{ header }}</div>
         </div>
 
-        <!-- Render rows -->
         <template v-for="(rowData, rowIndex) in jsonData['Kohde 1']" :key="rowIndex">
-          <!-- Render row if it contains "vuosiluku" -->
-          <div class="excel-row" v-if="rowData.hasOwnProperty('vuosiluku')">
+          <div class="excel-row" v-if="!rowData.hasOwnProperty('ala') && rowData.hasOwnProperty('vuosiluku')">
             <div class="excel-cell" v-for="(value, key) in rowData" :key="key">
               {{ value === '1-4' ? 2 : value }}
             </div>
-          </div>
-          <!-- Hide row if it contains "ala" -->
-          <div class="excel-row" v-else-if="rowData.hasOwnProperty('ala')">
-            <div class="excel-cell" v-for="(value, key) in rowData" :key="key" v-if="key === 'ala'">{{ value }}</div>
           </div>
         </template>
       </div>
@@ -73,7 +66,8 @@ const openYears = ref(Array(jsonData['Kohde 1'].length).fill(false));
 }
 
 .excel-cell:first-child {
-  min-width: 100px; /* Adjust the width of the first column if needed */
+  min-width: 100px;
+  /* Adjust the width of the first column if needed */
 }
 
 .toggle-cell {
@@ -89,6 +83,7 @@ const openYears = ref(Array(jsonData['Kohde 1'].length).fill(false));
 }
 
 .extra-data {
-  padding-left: 30px; /* Adjust indentation for the extra data */
+  padding-left: 30px;
+  /* Adjust indentation for the extra data */
 }
 </style>
