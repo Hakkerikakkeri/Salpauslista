@@ -26,6 +26,9 @@
   padding: 12px 12px;
   background-color: rgb(233, 233, 233);
   border-radius: 4px;
+  font-size: 11px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
   outline: none;
   border: none;
 }
@@ -33,6 +36,8 @@
 .excel-button{
   padding: 12px 14px;
   border-radius: 4px;
+  font-size: 11px;
+  font-family: 'Poppins', sans-serif;
   font-weight: bold;
   color: white;
   background-color: #e84d0d;
@@ -43,12 +48,49 @@
 
 .title{
   color: black;
-  text-align: center;
-  font-size: 18px;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
   font-weight: bold;
+  text-align: center;
   margin-bottom: 12px;
 }
 
-.data{
+.container {
+  text-align: center;
+  width: 1050px;
+  max-width: 1050px;
+  margin: auto;
+  padding: 20px;
   color: black;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.data-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+.excel-table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.excel-row {
+  display: table-row;
+}
+
+.excel-cell {
+  display: table-cell;
+  padding: 8px;
+}
+
+.header-row {
+  background-color: #f2f2f2;
+}
+
+.excel-cell:first-child {
+  min-width: 100px;
 }

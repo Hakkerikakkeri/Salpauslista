@@ -9,9 +9,9 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'verdana';
-  font-weight: bold;
-  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
