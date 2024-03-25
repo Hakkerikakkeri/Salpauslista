@@ -21,7 +21,7 @@ import { ref } from 'vue';
 import jsonData from '../data/tilastovuosi2.json';
 
 const searchQuery = ref('');
-const searchResults = ref([]);
+const searchResults = ref<string[]>([]); // Specify type as string[]
 const showPopup = ref(false);
 
 const search = () => {
